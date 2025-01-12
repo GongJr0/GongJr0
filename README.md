@@ -8,7 +8,7 @@
     </p>
   </div>
   <!-- Left: Images -->
-  <div style="display: flex; flex-direction: column; gap: 10px; max-width: 400px;">
+  <div style="display: flex; flex-direction: column; gap: 10px; maxwidth: 400px;">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=GongJr0&show_icons=true&theme=dracula"
@@ -18,14 +18,14 @@
         srcset="https://github-readme-stats.vercel.app/api?username=GongJr0&show_icons=true"
         media="(prefers-color-scheme: light)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" style="width: 100%; display: block;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" width=400px style="display: block;" />
     </picture>
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio"
       />
       <a href="https://github.com/GongJr0/NeoPortfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio&theme=dracula" style="width: 100%; display: block;" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio&theme=dracula" width=400px style="display: block;" />
       </a>
     </picture>
   </div>
