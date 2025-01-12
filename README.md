@@ -8,15 +8,13 @@
       srcset="https://github-readme-stats.vercel.app/api?username=GongJr0&show_icons=true"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" height=170px/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" width=400px/>
   </picture>
-  
-  <br></br>
-  
+  <br></br> 
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio"
     />
-    <a href="https://github.com/GongJr0/NeoPortfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio&theme=dracula" height=170px/></a>
+    <a href="https://github.com/GongJr0/NeoPortfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio&theme=dracula" width=400px/></a>
   </picture>
 </div>
