@@ -1,7 +1,7 @@
 <div style="display: grid; grid-template-columns: auto 1fr; gap: 20px; align-items: start;">
     <!-- Right: Text -->
   <div style="max-width: 600px;">
-    <h2>Welcome to Güney's Profile</h2>
+    <h2>Hey, Welcome to My Profile!</h2>
     <p>
       I'm a finance student and data science enthusiast building projects here in GitHub! I've been learning to program for the past 3 years, mainly focusing on ML and data manipulation/transformation.
       My main language is Python but I have advanced SQL knowledge (MySQL and SQLite) alongside the basics of HTML/CSS, Javascript, R, etc.
