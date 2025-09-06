@@ -4,7 +4,7 @@
     <h2>Hey, welcome to my profile!</h2>
     <p>
       I'm a finance student and data science enthusiast building projects here in GitHub! I've been learning to program for the past 3 years, mainly focusing on ML and data manipulation/transformation.
-      My main language is Python and I have advanced SQL knowledge (MySQL and SQLite) alongside the basics of HTML/CSS, Java, Javascript, R, etc.
+      My main language is Python and I've been working with Golang recently. I have advanced SQL knowledge (MySQL and SQLite) alongside the basics of HTML/CSS, Java, Javascript, R, etc.
     </p>
   <h2> Stats </h2>    
   </div>
