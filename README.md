@@ -10,7 +10,14 @@
   </div>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=GongJr0&show_icons=true&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api?username=GongJr0&show_icons=true&theme=dracula&custom_title=GitHub%20Stats"
+        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" width=400px style="display: block;" />
+    </picture>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=GongJr0&theme=dracula&langs_count=5&custom_title=Weekly%20WakaTime"
         media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" width=400px style="display: block;" />
