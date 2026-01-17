@@ -10,33 +10,33 @@
   </div>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=GongJr0&show_icons=true&theme=dracula&custom_title=GitHub%20Stats"
+        srcset="https://github-readme-stats-eight-alpha-97.vercel.app/api?username=GongJr0&show_icons=true&theme=dracula&custom_title=GitHub%20Stats"
         media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" width=400px style="display: block;" />
+      <img src="https://github-readme-stats-eight-alpha-97.vercel.app/api?username=anuraghazra&show_icons=true" width=400px style="display: block;" />
     </picture>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=GongJr0&theme=dracula&langs_count=5&custom_title=Weekly%20WakaTime"
+        srcset="https://github-readme-stats-eight-alpha-97.vercel.app/api/wakatime?username=GongJr0&theme=dracula&langs_count=5&custom_title=Weekly%20WakaTime"
         media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" width=400px style="display: block;" />
+      <img src="https://github-readme-stats-eight-alpha-97.vercel.app/api?username=anuraghazra&show_icons=true" width=400px style="display: block;" />
     </picture>
     <h2>Repo Highlights</h2>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=MacroSim"
+        srcset="https://github-readme-stats-eight-alpha-97.vercel.app/api/pin/?username=GongJr0&repo=MacroSim"
       />
       <a href="https://github.com/GongJr0/MacroSim">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=MacroSim&theme=dracula" width=400px style="display: block;" />
+        <img src="https://github-readme-stats-eight-alpha-97.vercel.app/api/pin/?username=GongJr0&repo=MacroSim&theme=dracula" width=400px style="display: block;" />
       </a>
     </picture>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio"
+        srcset="https://github-readme-stats-eight-alpha-97.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio"
       />
       <a href="https://github.com/GongJr0/NeoPortfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio&theme=dracula" width=400px style="display: block;" />
+        <img src="https://github-readme-stats-eight-alpha-97.vercel.app/api/pin/?username=GongJr0&repo=NeoPortfolio&theme=dracula" width=400px style="display: block;" />
       </a>
     </picture>
   </div>
