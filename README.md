@@ -25,7 +25,7 @@
     <h2>Repo Highlights</h2>
     <picture>
       <source
-        srcset="https://github-readme-stats-eight-alpha-97.vercel.app/api/pin/?username=GongJr0&repo=MacroSim&cache_seconds=1800"
+        srcset="https://github-readme-stats-eight-alpha-97.vercel.app/api/pin/?username=GongJr0&repo=SymbolicDSGE&cache_seconds=1800"
       />
       <a href="https://github.com/GongJr0/MacroSim">
         <img src="https://github-readme-stats-eight-alpha-97.vercel.app/api/pin/?username=GongJr0&repo=MacroSim&theme=dracula&cache_seconds=1800" width=400px style="display: block;" />
