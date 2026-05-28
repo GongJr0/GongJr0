@@ -17,7 +17,7 @@
     </picture>
     <picture>
       <source
-        srcset="https://github-readme-stats-eight-alpha-97.vercel.app/api/wakatime?username=GongJr0&theme=dracula&langs_count=5&custom_title=Weekly%20WakaTime&cache_seconds=1800"
+        srcset="https://github-readme-stats-eight-alpha-97.vercel.app/api/wakatime?username=GongJr0&theme=dracula&langs_count=5&custom_title=Weekly%20WakaTime&cache_seconds=1800&v=2"
         media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats-eight-alpha-97.vercel.app/api?username=anuraghazra&show_icons=true" width=400px style="display: block;" />
